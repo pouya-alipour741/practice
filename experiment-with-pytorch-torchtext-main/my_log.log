@@ -1,0 +1,55 @@
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:embed.weight:torch.Size([5000, 100]) has 500000 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_ih_l0:torch.Size([32, 100]) has 3200 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.weight_hh_l0:torch.Size([32, 32]) has 1024 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_ih_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:rnn.bias_hh_l0:torch.Size([32]) has 32 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.weight:torch.Size([4, 32]) has 128 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:linear.bias:torch.Size([4]) has 4 parameters
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:total parameters: 504420.00
+INFO:__main__:total parameters: 504420.00

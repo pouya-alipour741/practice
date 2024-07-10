@@ -3,3 +3,7 @@
 #more test
 log/ 
 bin/ 
+Transformer-Neural-Network/
+experiment-with-pytorch-torchtext-main/artifacts
+experiment-with-pytorch-torchtext-main/data
+
